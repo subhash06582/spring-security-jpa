@@ -14,7 +14,7 @@
 	<name>spring-security-jpa</name>
 	<description>Spring Security sample using JPA</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>15</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
